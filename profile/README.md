@@ -55,8 +55,6 @@ Labs repeatedly annotate the same naturalistic stimuli in isolation:
 |------------|---------|
 | [management](https://github.com/Annotation-Garden/management) | Governance, white papers, coordination |
 | [image-annotation](https://github.com/Annotation-Garden/image-annotation) | VLM-powered annotation tool |
-| [website](https://github.com/Annotation-Garden/annotation-garden.github.io) | annotation.garden landing page |
-| [assets](https://github.com/Annotation-Garden/assets) | Logos, design guidelines |
 
 ---
 
@@ -71,13 +69,7 @@ Labs repeatedly annotate the same naturalistic stimuli in isolation:
 
 ## Standards Integration
 
-<p align="center">
-  <a href="https://bids.neuroimaging.io/"><img src="https://raw.githubusercontent.com/Annotation-Garden/website/main/public/logos/bids.svg" height="40" alt="BIDS"></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://hedtags.org/"><img src="https://raw.githubusercontent.com/Annotation-Garden/website/main/public/logos/HED.svg" height="40" alt="HED"></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://openneuro.org/"><img src="https://raw.githubusercontent.com/Annotation-Garden/website/main/public/logos/openneuro.png" height="40" alt="OpenNeuro"></a>
-</p>
+Built on [BIDS](https://bids.neuroimaging.io/) and [HED](https://hedtags.org/) specifications, with integration to [OpenNeuro](https://openneuro.org/).
 
 ---
 
